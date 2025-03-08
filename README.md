@@ -1,17 +1,16 @@
 # 💫 About Me:
-I am Shubham Bhatia, a software engineer passionate about building scalable, high-performance systems and solving complex challenges through AI, blockchain, and DevOps. I specialize in architecting efficient backend systems, optimizing workflows, and leveraging emerging technologies to create impactful solutions.<br><br>
+I am Shubham Bhatia, a software engineer passionate about building scalable, high-performance systems and solving complex challenges through AI, blockchain, and DevOps. I specialize in architecting efficient backend systems, optimizing workflows, and leveraging emerging technologies to create impactful solutions.  
 
-🔹 **Interests & Expertise**<br>  
-• **AI & ML** – AI-powered trading web apps, AI agents, machine learning-driven decision systems<br>  
-• **Blockchain Solutions** – Decentralized applications, smart contracts, fraud detection<br>  
-• **DevOps & System Design** – Scalable architectures, cloud infrastructure, CI/CD, containerization<br>  
-• **Full-Stack Development** – MERN stack, Next.js, TypeScript, REST & GraphQL APIs<br><br>  
+🔹 **Interests & Expertise**  
+• **AI & ML** – AI-powered trading web apps, AI agents, machine learning-driven decision systems  
+• **Blockchain Solutions** – Decentralized applications, smart contracts, fraud detection  
+• **DevOps & System Design** – Scalable architectures, cloud infrastructure, CI/CD, containerization  
+• **Full-Stack Development** – MERN stack, Next.js, TypeScript, REST & GraphQL APIs  
 
-🎯 **Recent Work**<br>  
-• **Veritas** – A blockchain-based platform for authentic review verification<br>  
-• **AI-Powered Trading Web App** – Real-time stock trading with AI-driven decision-making<br>  
-• **Banking Web App** – Secure financial management platform with Dwolla, Plaid, and Decentro integration<br><br>  
-
+🎯 **Recent Work**  
+• **Veritas** – A blockchain-based platform for authentic review verification  
+• **AI-Powered Trading Web App** – Real-time stock trading with AI-driven decision-making  
+• **Banking Web App** – Secure financial management platform with Dwolla, Plaid, and Decentro integration  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhambhatiaa27) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Upbeat_Bed_9889) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shubham87527402) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhambhatia543@gmail.com) 
