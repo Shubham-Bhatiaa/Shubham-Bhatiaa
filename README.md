@@ -1,5 +1,16 @@
 # 💫 About Me:
-I am Shubham Bhatia, a software engineer passionate about building scalable, high-performance systems and solving complex challenges through AI, blockchain, and DevOps. I specialize in architecting efficient backend systems, optimizing workflows, and leveraging emerging technologies to create impactful solutions.<br><br>🔹 Interests & Expertise<br>AI & ML – AI-powered trading web apps, AI agents, machine learning-driven decision systems<br>Blockchain Solutions – Decentralized applications, smart contracts, fraud detection, Veritas (Blockchain-based review verification)<br>DevOps & System Design – Scalable architectures, cloud infrastructure, CI/CD, containerization<br>Full-Stack Development – MERN stack, Next.js, TypeScript, REST & GraphQL APIs<br>🎯 Recent Work<br>Veritas – A blockchain-based platform for authentic review verification<br>AI-Powered Trading Web App – Real-time stock trading with AI-driven decision-making<br>Banking Web App – Secure financial management platform with Dwolla, Plaid, and Decentro integration<br>🏆 Certifications & Achievements<br>Full Stack & Blockchain Development – Udemy<br>Python Development – Udemy<br>2x Hackathon Winner, 1x Second Runner-Up
+I am Shubham Bhatia, a software engineer passionate about building scalable, high-performance systems and solving complex challenges through AI, blockchain, and DevOps. I specialize in architecting efficient backend systems, optimizing workflows, and leveraging emerging technologies to create impactful solutions.<br><br>
+
+🔹 **Interests & Expertise**<br>  
+• **AI & ML** – AI-powered trading web apps, AI agents, machine learning-driven decision systems<br>  
+• **Blockchain Solutions** – Decentralized applications, smart contracts, fraud detection<br>  
+• **DevOps & System Design** – Scalable architectures, cloud infrastructure, CI/CD, containerization<br>  
+• **Full-Stack Development** – MERN stack, Next.js, TypeScript, REST & GraphQL APIs<br><br>  
+
+🎯 **Recent Work**<br>  
+• **Veritas** – A blockchain-based platform for authentic review verification<br>  
+• **AI-Powered Trading Web App** – Real-time stock trading with AI-driven decision-making<br>  
+• **Banking Web App** – Secure financial management platform with Dwolla, Plaid, and Decentro integration<br><br>  
 
 
 ## 🌐 Socials:
